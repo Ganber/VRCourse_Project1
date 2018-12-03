@@ -1,0 +1,5 @@
+1. Light inside elevator
+2. Level door does not close when going up or down after 1st level
+3. Block user from pressing wrong inputs (only level above or below)
+4. Open door only once when actor is OnTrigger
+5. Add open trigger to each floor ?
